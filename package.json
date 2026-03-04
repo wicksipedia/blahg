@@ -12,12 +12,12 @@
 	"devDependencies": {
 		"@astrojs/rss": "^4.0.15",
 		"@astrojs/sitemap": "^3.7.0",
-		"astro": "^5.16.11",
+		"astro": "^5.18.0",
 		"prettier": "^3.3.3",
 		"prettier-plugin-astro": "^0.14.1"
 	},
 	"dependencies": {
-		"@tinacms/cli": "^1.10.2",
-		"tinacms": "^2.8.2"
+		"@tinacms/cli": "^1.12.6",
+		"tinacms": "^2.10.1"
 	}
 }
