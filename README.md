@@ -17,6 +17,7 @@ Hello, welcome. This is a blog ("blahg" is the proper spelling for Chicagoans) t
 - Add your TinaCMS keys (see below)
 - Update `astro.config.mjs` with your domain
 - Edit `src/settings/settings.json` (or update it in Tina, see below)
+- Set your Twitter creator handle in `src/components/BaseHead.astro` (`twitter:creator` meta tag)
 - Add your URL in line 1 of `public/robots.txt`
 - Add your links in `src/components/Header.astro`
 - Update the intro in `pages/about.md`
